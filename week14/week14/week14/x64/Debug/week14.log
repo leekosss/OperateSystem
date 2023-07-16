@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  week14.c
+E:\c\OS\week14\week14\week14\week14.c(83,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week14\week14\week14\week14.c(90,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week14\week14\week14\week14.c(123,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\c\OS\week14\week14\week14\week14.c(288,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\c\OS\week14\week14\week14\week14.c(289,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\c\OS\week14\week14\week14\week14.c(339,8): warning C4013: “exit”未定义；假设外部返回 int
+E:\c\OS\week14\week14\week14\week14.c(311,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week14\week14\week14\week14.c(317,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week14\week14\week14\week14.c(346,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week14.vcxproj -> E:\c\OS\week14\week14\x64\Debug\week14.exe

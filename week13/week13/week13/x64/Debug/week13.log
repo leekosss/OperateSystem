@@ -1,0 +1,10 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  week13.cpp
+E:\c\OS\week13\week13\week13\week13.cpp(75,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(76,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(146,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(201,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(217,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(219,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\c\OS\week13\week13\week13\week13.cpp(212): warning C4715: “menu”: 不是所有的控件路径都返回值
+  week13.vcxproj -> E:\c\OS\week13\week13\x64\Debug\week13.exe
